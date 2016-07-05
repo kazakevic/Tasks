@@ -1,7 +1,7 @@
 <?php
 //search("Sviecia saule", grybas) ===> false
 //search("Sviecia saule", sau le) ===> true
-
+//Search in string without PHP methods, only using strlen
 function check($part, $str)
 {
 
